@@ -1,4 +1,4 @@
-# BoxOffice-Revenue-Prediction
+# Movie-BoxOffice-Revenue-Prediction
 Movie Boxoffice revenue prediction with Linear Regression 
 
 
